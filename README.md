@@ -43,12 +43,12 @@ Key highlights include:
 
 👥 Team Size: (Update with your actual team size)
 
-Co-Lead:
+Lead:
 | Abhinab Mondal | 
 |----------------|
 
-Team B:
-|           |           |           |           | 
+Team:
+|           |                |                |                | 
 |-----------|----------------|----------------|----------------|
 
 ✅ Defined research problem and project objectives
